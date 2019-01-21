@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\shared"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\src\\shared\\dishes.js",
   "PreviewInSolutionExplorer": false
 }
